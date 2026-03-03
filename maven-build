@@ -1,0 +1,17 @@
+import java.io.*;
+
+public class AddTwoNumbers {
+    public static void main(String[] args) {
+        
+        // Declare and initialize 
+        // two numbers
+        int n = 3, m = 7; 
+        
+        // Add two number using
+        // + operator
+        int sum = n+m;
+        
+        // Print the sum
+        System.out.println("Sum: " + sum);
+    }
+}
